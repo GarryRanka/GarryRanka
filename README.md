@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GarryRanka
+- 👋 Hi, I’m @GauravRanka
 - 👀 I’m interested in Business Analytics and Data Analytics
 - 🌱 I’m currently learning Power-BI, SQL, Python
 - 💞️ I’m looking to collaborate on GIT
